@@ -4,8 +4,8 @@ const mysql = require('mysql2');
 const connection = mysql.createConnection({
     host: 'sql.freedb.tech',
     user: 'dhirajbhawana74', // Your username
-    password: 'vZOLOJAapPsh6UFq', // Your password
-    database: 'openimg', // Database name
+    password: 'Avc&??3R9R8Tjy?', // Your new password
+    database: 'freedb_openimg', // Updated database name
     port: 3306
 });
 
